@@ -1,0 +1,89 @@
+pool,gender,first_name,last_name,country_code,primary_event,salary
+pro,men,Marcell,Jacobs,ITA,100m,9200
+pro,men,Ferdinand,Omanyala,KEN,100m,7800
+pro,men,Fred,Kerley,USA,100m,9000
+pro,men,Noah,Lyles,USA,100m,10000
+pro,men,Oblique,Seville,JAM,100m,8500
+pro,men,Kishane,Thompson,JAM,100m,9500
+pro,men,Letsile,Tebogo,BOT,200m,9000
+pro,men,Kenny,Bednarek,USA,200m,8500
+pro,men,Joseph,Fahnbulleh,LBR,200m,7500
+pro,men,Matthew,Hudson-Smith,GBR,400m,8200
+pro,men,Quincy,Hall,USA,400m,8800
+pro,men,Michael,Norman,USA,400m,7900
+pro,men,Muzala,Samukonga,ZAM,400m,7500
+pro,men,Marco,Arop,CAN,800m,8500
+pro,men,Emmanuel,Wanyonyi,KEN,800m,9200
+pro,men,Djamel Sedjati,,ALG,800m,8000
+pro,men,Jakob,Ingebrigtsen,NOR,1500m,10000
+pro,men,Josh,Kerr,GBR,1500m,9500
+pro,men,Cole,Hocker,USA,1500m,9000
+pro,men,Yomif,Kejelcha,ETH,3000m,8000
+pro,men,Grant,Fisher,USA,5000m,8500
+pro,men,Joshua,Cheptegei,UGA,5000m,9200
+pro,men,Selemon,Barega,ETH,10000m,8000
+pro,men,Lamecha,Girma,ETH,3000m_steeplechase,8500
+pro,men,Soufiane,El Bakkali,MAR,3000m_steeplechase,9000
+pro,men,Grant,Holloway,USA,110m_hurdles,10000
+pro,men,Hansle,Parchment,JAM,110m_hurdles,8500
+pro,men,Karsten,Warholm,NOR,400m_hurdles,10000
+pro,men,Rai,Benjamin,USA,400m_hurdles,9500
+pro,men,Alison,dos Santos,BRA,400m_hurdles,9000
+pro,men,Mondo,Duplantis,SWE,pole_vault,10000
+pro,men,Sam,Kendricks,USA,pole_vault,8500
+pro,men,Chris,Nilsen,USA,pole_vault,7800
+pro,men,Gianmarco,Tamberi,ITA,high_jump,8500
+pro,men,Mutaz Essa,Barshim,QAT,high_jump,8000
+pro,men,JuVaughn,Harrison,USA,long_jump,7500
+pro,men,Miltiadis,Tentoglou,GRE,long_jump,9000
+pro,men,Pedro Pablo,Pichardo,POR,triple_jump,8500
+pro,men,Ryan,Crouser,USA,shot_put,10000
+pro,men,Joe,Kovacs,USA,shot_put,8500
+pro,men,Andrius,Gudžius,LTU,discus,7500
+pro,men,Kristjan,Čeh,SLO,discus,8500
+pro,men,Wojciech,Nowicki,POL,hammer,8000
+pro,men,Neeraj,Chopra,IND,javelin,10000
+pro,men,Julian,Weber,GER,javelin,8000
+pro,men,Eliud,Kipchoge,KEN,marathon,10000
+pro,women,Julien Alfred,Alfred,LCA,100m,9500
+pro,women,Sha'Carri,Richardson,USA,100m,10000
+pro,women,Shericka,Jackson,JAM,100m,9200
+pro,women,Elaine,Thompson-Herah,JAM,100m,8800
+pro,women,Dina Asher,Smith,GBR,100m,8000
+pro,women,Gabrielle,Thomas,USA,200m,9000
+pro,women,Alexis,Holmes,USA,400m,8500
+pro,women,Marileidy,Paulino,DOM,400m,10000
+pro,women,Natalia,Kaczmarek,POL,400m,9000
+pro,women,Faith,Kipyegon,KEN,1500m,10000
+pro,women,Gudaf,Tsegay,ETH,1500m,9000
+pro,women,Laura,Muir,GBR,1500m,8000
+pro,women,Sifan,Hassan,NED,5000m,9500
+pro,women,Beatrice,Chebet,KEN,5000m,8500
+pro,women,Letesenbet,Gidey,ETH,10000m,9000
+pro,women,Norah,Jeruto,KAZ,3000m_steeplechase,8500
+pro,women,Winfred,Yavi,BRN,3000m_steeplechase,9000
+pro,women,Masai,Russell,USA,100m_hurdles,9000
+pro,women,Tobi,Amusan,NGR,100m_hurdles,8500
+pro,women,Sydney,McLaughlin-Levrone,USA,400m_hurdles,10000
+pro,women,Femke,Bol,NED,400m_hurdles,9500
+pro,women,Anna,Cockrell,USA,400m_hurdles,8000
+pro,women,Nina,Kennedy,AUS,pole_vault,9000
+pro,women,Katie,Moon,USA,pole_vault,8500
+pro,women,Eleanor,Patterson,AUS,high_jump,8500
+pro,women,Yaroslava,Mahuchikh,UKR,high_jump,9000
+pro,women,Tara,Davis-Woodhall,USA,long_jump,9000
+pro,women,Malaika,Mihambo,GER,long_jump,8500
+pro,women,Shanieka,Ricketts,JAM,triple_jump,8000
+pro,women,Sarah,Mitton,CAN,shot_put,8000
+pro,women,Chase,Ealey,USA,shot_put,8500
+pro,women,Valarie,Allman,USA,discus,9000
+pro,women,Brooke,Andersen,USA,hammer,8500
+pro,women,Haruka,Kitaguchi,JPN,javelin,8000
+pro,women,Kelsey-Lee,Barber,AUS,javelin,7500
+pro,women,Anna,Hall,USA,heptathlon,8500
+pro,women,Nafissatou,Thiam,BEL,heptathlon,9000
+pro,women,Brigid,Kosgei,KEN,marathon,9000
+pro,women,Ruth,Chepngetich,KEN,marathon,9500
+pro,women,Athing,Mu,USA,800m,10000
+pro,women,Keely,Hodgkinson,GBR,800m,9500
+pro,women,Mary Moraa,,KEN,800m,9000

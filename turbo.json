@@ -1,0 +1,33 @@
+{
+  "$schema": "https://turbo.build/schema.json",
+  "ui": "tui",
+  "tasks": {
+    "build": {
+      "dependsOn": ["^build"],
+      "inputs": ["$TURBO_DEFAULT$", ".env*"],
+      "outputs": [".next/**", "!.next/cache/**", "dist/**"]
+    },
+    "dev": {
+      "cache": false,
+      "persistent": true
+    },
+    "lint": {
+      "dependsOn": ["^lint"],
+      "inputs": ["**/*.ts", "**/*.tsx", "**/*.mts", "eslint.config.*", ".eslintrc*"]
+    },
+    "typecheck": {
+      "dependsOn": ["^typecheck"],
+      "inputs": ["**/*.ts", "**/*.tsx", "**/*.mts", "tsconfig*.json"],
+      "outputs": ["*.tsbuildinfo"]
+    },
+    "test": {
+      "dependsOn": ["^build"],
+      "inputs": ["**/*.ts", "**/*.tsx", "vitest.config.*"],
+      "outputs": ["coverage/**"]
+    },
+    "format": {
+      "inputs": ["**/*.ts", "**/*.tsx", "**/*.md", "**/*.json"],
+      "cache": false
+    }
+  }
+}
